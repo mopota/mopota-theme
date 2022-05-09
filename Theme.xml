@@ -2,7 +2,7 @@
 
 
 <themes>
-<data Xml="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Xml/" Wall="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Wall/" Screen="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Screen/"/>
+<data Xml="https://github.com/mopota/mopota-theme/tree/main/xml/" Wall="https://github.com/mopota/mopota-theme/tree/main/wall/" Screen="https://github.com/mopota/mopota-theme/tree/main/screen/"/>
 <theme>
 <title>LightThemeIos</title>
 <date>3/1/2022</date>
