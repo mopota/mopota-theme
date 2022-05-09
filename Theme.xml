@@ -1,1 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+
+<themes>
+<data Xml="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Xml/" Wall="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Wall/" Screen="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Screen/"/>
+<theme>
+<title>LightThemeIos</title>
+<date>3/1/2022</date>
+</theme>
